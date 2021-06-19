@@ -1,0 +1,4 @@
+[submodule "WithPrice/randolph_lottery"]
+	path = WithPrice/randolph_lottery
+	url = git@github.com:WithPrice/randolph_lottery.git
+	branch = master
