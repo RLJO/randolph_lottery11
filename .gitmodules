@@ -2,3 +2,8 @@
 	path = WithPrice/randolph_lottery
 	url = git@github.com:WithPrice/randolph_lottery.git
 	branch = master
+
+[submodule "RL-OtherApps/randolp"]
+	path = RL-OtherApps/randolp
+	url = git@github.com:RL-OtherApps/randolph_lottery.git
+	branch = master
